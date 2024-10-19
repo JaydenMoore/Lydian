@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import { useState, useEffect } from 'react';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCk1zMIO2x3Of-4yrkUsOxiJc9M2xH0x4U",
+  apiKey: "**************************",
   authDomain: "lydian-f0717.firebaseapp.com",
   projectId: "lydian-f0717",
   storageBucket: "lydian-f0717.appspot.com",
